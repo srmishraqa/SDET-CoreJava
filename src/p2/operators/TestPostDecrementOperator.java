@@ -11,6 +11,17 @@ public class TestPostDecrementOperator {
 
 		System.out.println(x1);
 		System.out.println(y1);
+ 
+		System.out.println("***************");
+		
+		int i = 10;
+		int n = i++ % 2;
+		
+		int i1 = 10;
+		int n1 = ++i1 % 2;
+		
+		System.out.println(n);
+		System.out.println(n1);
 
 	}
 
