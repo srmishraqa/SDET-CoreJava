@@ -19,7 +19,7 @@ public class IncrementOperatorAnalysis {
 
 		System.out.println("*******************");
 
-		// Internal type casting happens for increment and decrement opeartor
+		// Internal type casting happens for increment and decrement operator
 		//
 		byte b = 10;
 		b++;
