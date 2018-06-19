@@ -3,7 +3,6 @@ package p4.ifelse;
 import java.util.Scanner;
 
 public class TestDL {
-
 	public static void main(String[] args) {
 
 		System.out.println("Enter the Age");
